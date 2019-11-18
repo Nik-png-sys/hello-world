@@ -1,0 +1,39 @@
+* { */
+  margin:0;
+  box-sizing: border-box;
+ }
+
+.image2 {
+  position: absolute;
+  left: 380px;
+}
+
+.image3 {
+  position: absolute;
+  top: 8px;
+  left: 380px;
+}
+
+.image4 {
+  position: absolute;
+  top: 8px;
+  left: 750px;
+}
+
+.image5 {
+  position: absolute;
+  top: 8px;
+  left: 1115px;
+}
+
+.image7 {
+  position: absolute;
+  top: 332px;
+  left: 750px;
+}
+
+.image9 {
+  position: absolute;
+  top: 332px;
+  left: 1115px;
+}

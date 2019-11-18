@@ -1,0 +1,14 @@
+{
+    "name": "online-scraper-publication",
+    "version": "0.0.1",
+    "homepage": "",
+    "description": "codingproject",
+    "author": "sonianikolaeva",
+    "main": "app.js",
+    "dependencies": {
+        "nodemon": "latest",
+        "express": "latest",
+        "request": "latest",
+        "cheerio": "latest"
+    }
+}
